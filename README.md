@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shanmukmichael_chrome_assit&metric=alert_status)](https://sonarcloud.io/dashboard?id=shanmukmichael_chrome_assit)
+
 # Speech Recognition Chrome Assitant
 A tool for voice command assitant
 # Requirements
